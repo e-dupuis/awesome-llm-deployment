@@ -7,8 +7,15 @@ This is a continuous work in progress and both the structure and the content wil
 
 # Model Serving/ Inference Engine
 - [vLLM](https://github.com/vllm-project/vllm) - vLLM is a fast and easy-to-use library for LLM inference and serving.
-- [LangChain](https://python.langchain.com/docs/get_started/introduction) - is a framework for developing applications powered by language models (Python)
+- [LangChain](https://python.langchain.com/docs/get_started/introduction) - is a framework for developing applications powered by language models (Python).
 
 # Learning Material
-- [DataScience-StudyMaterial](https://github.com/deshwalmahesh/DataScience-StudyMaterial/tree/main) - resources to study LLM & ML, with annotated papers
+- [DataScience-StudyMaterial](https://github.com/deshwalmahesh/DataScience-StudyMaterial/tree/main) - resources to study LLM & ML, with annotated papers.
+
+# Benchmark
+- [Hugging Face LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - The HF Open LLM Leaderboard aims to track, rank and evaluate open LLMs and chatbots.
+
+# Open Models
+- [Hugging Face LLMs](https://huggingface.co/models?other=LLM) - list of models from HF.
+- [GPT4All](https://gpt4all.io/index.html) - a free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
 
