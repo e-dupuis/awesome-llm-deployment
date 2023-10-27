@@ -20,4 +20,5 @@ This is a continuous work in progress and both the structure and the content wil
 # Open Models
 - [Hugging Face LLMs](https://huggingface.co/models?other=LLM) - list of models from HF.
 - [GPT4All](https://gpt4all.io/index.html) - a free-to-use, locally running, privacy-aware chatbot. No GPU or internet required.
+- [ExploreLLM](https://llm.extractum.io) - Explore and compare the LLMs that fit your needs.
 
