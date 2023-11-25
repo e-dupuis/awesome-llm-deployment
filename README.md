@@ -5,6 +5,9 @@ This is a continuous work in progress and both the structure and the content wil
 # Inference Optimisation Techniques
 - [ExLLAMAv2](https://github.com/turboderp/exllamav2) - Framework to expore different quantization levels for LLM and their impact on the accuracy and the runtime.
 
+# Fine-Tuning Optimization Techniques
+- [LQ-LoRA](https://github.com/hanguo97/lq-lora) : Low-rank plus Quantized Matrix Decomposition for Efficient Language Model Finetuning 
+
 # Model Serving/ Inference Engine
 - [vLLM](https://github.com/vllm-project/vllm) - vLLM is a fast and easy-to-use library for LLM inference and serving.
 - [LangChain](https://python.langchain.com/docs/get_started/introduction) - is a framework for developing applications powered by language models (Python).
